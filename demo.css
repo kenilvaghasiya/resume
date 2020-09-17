@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#mainscr{
+
+    display: flex;
+    width: 100%;
+    height: 100%;
+
+
+    
+
+}
+
+
+#leftscr{
+    width: 35%;
+    height: 100%;
+    overflow: scroll;
+}
+
+#rightscr{
+    width: 65%;
+    height: 100%;
+}
+
+
+.ccc{
+    border: 2px solid ;
+    height: 45px;
+    width: 400px;
+    border-radius: 10px;
+    font-size: 20px;
+
+  }
+
+.ccc2{
+    border: 2px solid ;
+    height: 45px;
+    width: 200px;
+    border-radius: 10px;
+    font-size: 20px;
+
+  }  
+
+  input[type=file]{
+    height: 45px;
+    font-size: 20px;
+
+  }
+
+
+
+
+#table
+{
+    padding: 20px;
+}
+
+.button1 {
+    background-color: white;
+    color: black;
+    font-size: 35px;
+    border: 2px solid #4CAF50; /* Green */
+  }
